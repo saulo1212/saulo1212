@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo  Arquitetura de software.
 - 🌱 Graduação Sistemas de informação.
 - 🌱 Pos Graduação Desenvolvimento de Software
-- 📫 ContatA-te pelo e-mail: sau-lode@outlook.com
+- 📫 e-mail: saulotm90@outlook.com
 <div>
     <img src="https://komarev.com/ghpvc/?username=saulo1212&color=green" alt="saulo1212" /> 
   </div>
