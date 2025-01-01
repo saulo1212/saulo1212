@@ -1,9 +1,8 @@
 ### Olá eu sou o Saulo Moreira 👋
 
-- 🔭 Atualmente estou trabalhando com nodeJS, Laravel, reactjs, PostgreSQL, MongoDB, Redis, Docker e IOT
-- 🌱 Atualmente estou aprendendo  Arquitetura de software.
+- 🔭 Atualmente estou trabalhando com nodeJS, AWS, reactjs, reactNative, PostgreSQL, MongoDB, Redis
 - 🌱 Graduação Sistemas de informação.
-- 🌱 Pos Graduação Desenvolvimento de Software
+- 🌱 Pos Graduação  Arquitetura de software
 - 📫 e-mail: saulotm90@outlook.com
 <div>
     <img src="https://komarev.com/ghpvc/?username=saulo1212&color=green" alt="saulo1212" /> 
@@ -38,7 +37,7 @@
    <a href="https://discord.gg/saulo#3686" target="_blank">
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
    </a> 
-  <a href = "mailto:sau-lode@outlook.com">
+  <a href = "mailto:saulotm90@outlook.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/saulo-moreira-151951120/" target="_blank">
